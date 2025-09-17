@@ -12,7 +12,7 @@
 ```shell
 # 从主分支获取最新的代码
 git checkout dev
-git pyll origin main 
+git pull origin main 
 ```
 
 ```shell
